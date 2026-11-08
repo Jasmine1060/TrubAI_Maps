@@ -1,0 +1,1808 @@
+﻿ObjectId,Crash ID,Primary Road,Intersecting Road,Crash Date,Day,Month,Year,Hour,Weekday,Crash Type Code,Highway Classification Code,Community Code,Jurisdiction Code,Lane Departure Type Code,Surface Type,Road Condition,Weather Condition,Lighting Condition,Speed Limit,Lanes,Units,Occupants,Most Severe Injury,Fatal Injuries,Suspected Serious Injuries,Suspected Minor Injuries,Possible Injuries,Property Damage Only,Secondary Crash,Traffic Control,Red Light Run,Hit and Run,Alcohol,Drugs,Unbelted Person,Work Zone,Speeding Driver,Distracted Driver,Driveway,Pedestrian,Elderly Driver,Young Driver,Commercial Vehicle,Emergency Vehicles,Train,School Bus,Motorcycle,Bicycle,Deer,Longitude,Latitude,geom,geog,x,y
+355,3245306,PEMBROKE,LIVERNOIS,2024-07-06,6,7,2024,15,7,1,9,,,0,,1,1,1,25,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.14214,42.43883,"{
+  ""coordinates"": [
+    -8.314214377499501e+01,
+    4.243882864039750e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.142143775,
+    42.43882864
+  ],
+  ""type"": ""Point""
+}",-83.142143775,42.4388286400001
+383,3228614,LIVERNOIS,ELMHURST,2024-07-06,6,7,2024,22,7,1,9,,4,0,Asphalt,1,1,4,30,3,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,true,false,-83.13898,42.37586,"{
+  ""coordinates"": [
+    -8.313897609027370e+01,
+    4.237585805989320e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.13897609,
+    42.37585806
+  ],
+  ""type"": ""Point""
+}",-83.13897609,42.37585806
+508,3286484,SAINT CLAIR,FOREST,2024-07-04,4,7,2024,22,5,1,9,,,0,,1,1,5,25,1,2,2,2,0,1,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.99099,42.38187,"{
+  ""coordinates"": [
+    -8.299099233357580e+01,
+    4.238187547395420e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.990992334,
+    42.381875474
+  ],
+  ""type"": ""Point""
+}",-82.9909923339999,42.381875474
+569,3226588,CENTRAL ST,SENATOR ST,2024-07-03,3,7,2024,19,4,1,9,,4,0,Asphalt,1,1,1,25,2,2,4,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.12337,42.31132,"{
+  ""coordinates"": [
+    -8.312336856187540e+01,
+    4.231131664527380e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.123368562,
+    42.311316645
+  ],
+  ""type"": ""Point""
+}",-83.1233685619999,42.311316645
+633,3228030,OAKMAN,WYOMING,2024-07-02,2,7,2024,11,3,1,9,,4,0,Asphalt,1,1,1,25,2,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15779,42.36177,"{
+  ""coordinates"": [
+    -8.315778953219380e+01,
+    4.236176671200760e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.157789532,
+    42.361766712
+  ],
+  ""type"": ""Point""
+}",-83.157789532,42.3617667120001
+676,3228006,GRAND,MICHIGAN,2024-07-01,1,7,2024,15,2,1,2,,4,0,Asphalt,1,1,1,35,1,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.09509,42.33137,"{
+  ""coordinates"": [
+    -8.309509212064890e+01,
+    4.233136787319570e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.095092121,
+    42.331367873
+  ],
+  ""type"": ""Point""
+}",-83.0950921209999,42.331367873
+888,3222705,PATTON,VASSAR,2024-06-28,28,6,2024,19,6,1,9,,,1,,1,2,1,25,1,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.24532,42.43309,"{
+  ""coordinates"": [
+    -8.324531825345250e+01,
+    4.243308628494810e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.245318253,
+    42.433086285
+  ],
+  ""type"": ""Point""
+}",-83.2453182529999,42.4330862850001
+909,3222697,WARREN,METTETAL,2024-06-28,28,6,2024,20,6,1,9,,2,0,Asphalt,1,1,3,35,1,2,2,4,0,0,0,1,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.20463,42.34356,"{
+  ""coordinates"": [
+    -8.320462887578040e+01,
+    4.234355724750400e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.204628876,
+    42.343557248
+  ],
+  ""type"": ""Point""
+}",-83.204628876,42.343557248
+1098,3224042,JEFFERSON,JOSEPH CAMPAU,2024-06-25,25,6,2024,17,3,1,9,,4,0,Asphalt,1,1,1,35,5,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false,false,false,false,false,true,false,-83.02026,42.33927,"{
+  ""coordinates"": [
+    -8.302025835889850e+01,
+    4.233927027770920e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.020258359,
+    42.339270278
+  ],
+  ""type"": ""Point""
+}",-83.020258359,42.3392702780001
+1547,3229350,CASS,LEDYARD,2024-06-18,18,6,2024,19,3,1,9,,4,0,Asphalt,1,1,1,30,3,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05778,42.34041,"{
+  ""coordinates"": [
+    -8.305778021221890e+01,
+    4.234041284682890e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.057780212,
+    42.340412847
+  ],
+  ""type"": ""Point""
+}",-83.057780212,42.340412847
+1616,3213642,SCHAEFER,LIDDESDALE,2024-06-17,17,6,2024,15,2,1,9,,2,0,Asphalt,1,1,1,30,4,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15184,42.27517,"{
+  ""coordinates"": [
+    -8.315184376072480e+01,
+    4.227517307721580e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.151843761,
+    42.275173077
+  ],
+  ""type"": ""Point""
+}",-83.151843761,42.275173077
+1632,3214447,LAWRENCE,HAMILTON,2024-06-17,17,6,2024,12,2,1,9,,,0,,1,1,1,30,2,2,2,4,0,0,0,1,false,false,true,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.0963,42.38774,"{
+  ""coordinates"": [
+    -8.309629960478900e+01,
+    4.238773756311340e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.096299605,
+    42.387737563
+  ],
+  ""type"": ""Point""
+}",-83.096299605,42.387737563
+1831,3211427,MICHIGAN,MILITARY,2024-06-14,14,6,2024,13,6,1,2,,1,0,Asphalt,1,1,1,35,5,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.11847,42.33112,"{
+  ""coordinates"": [
+    -8.311847110535140e+01,
+    4.233112167154600e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.118471105,
+    42.331121672
+  ],
+  ""type"": ""Point""
+}",-83.118471105,42.3311216720001
+1864,3212825,ELMHURST,LIVERNOIS,2024-06-14,14,6,2024,20,6,1,9,,4,0,Asphalt,1,1,3,,2,2,1,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13921,42.37614,"{
+  ""coordinates"": [
+    -8.313921666732250e+01,
+    4.237614145789550e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.139216667,
+    42.376141458
+  ],
+  ""type"": ""Point""
+}",-83.139216667,42.3761414580001
+2322,3207332,LINWOOD,COLLINGWOOD,2024-06-07,7,6,2024,21,6,1,9,,4,0,Asphalt,1,1,2,30,4,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.11335,42.38041,"{
+  ""coordinates"": [
+    -8.311335275460939e+01,
+    4.238041209011920e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.113352755,
+    42.38041209
+  ],
+  ""type"": ""Point""
+}",-83.1133527549999,42.38041209
+2400,3210710,CHICAGO,BRAILE,2024-06-06,6,6,2024,21,5,1,9,,4,0,Asphalt,1,1,5,35,2,2,2,2,0,1,0,0,false,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.24354,42.36459,"{
+  ""coordinates"": [
+    -8.324353590380910e+01,
+    4.236459238668790e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.243535904,
+    42.364592387
+  ],
+  ""type"": ""Point""
+}",-83.2435359039999,42.3645923870001
+2615,3294791,OUTER,GRAND RIVER,2024-06-03,3,6,2024,20,2,1,3,,2,0,Asphalt,1,1,1,35,5,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.23257,42.40647,"{
+  ""coordinates"": [
+    -8.323257413443460e+01,
+    4.240646862841990e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.232574134,
+    42.406468628
+  ],
+  ""type"": ""Point""
+}",-83.2325741339999,42.406468628
+2784,3199763,WHITCOMB,FENKELL ST,2024-05-31,31,5,2024,19,6,1,9,,,0,,1,1,1,30,4,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19628,42.40158,"{
+  ""coordinates"": [
+    -8.319628118842510e+01,
+    4.240158524010370e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.196281188,
+    42.40158524
+  ],
+  ""type"": ""Point""
+}",-83.1962811879999,42.40158524
+2934,3201294,LIVERNOIS AVE,HOWELL ST,2024-05-29,29,5,2024,22,4,1,9,,4,0,Asphalt,1,1,4,,5,2,3,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13847,42.36088,"{
+  ""coordinates"": [
+    -8.313846260462741e+01,
+    4.236088259223600e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.138462605,
+    42.360882592
+  ],
+  ""type"": ""Point""
+}",-83.138462605,42.3608825920001
+3093,3196039,MOUNT ELLIOTT,OUTER,2024-05-27,27,5,2024,16,2,1,9,,4,0,Asphalt,1,1,1,35,2,2,3,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0392,42.44101,"{
+  ""coordinates"": [
+    -8.303920060758630e+01,
+    4.244101280887410e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.039200608,
+    42.441012809
+  ],
+  ""type"": ""Point""
+}",-83.039200608,42.441012809
+3101,3198065,KEELER,LIVERNOIS,2024-05-27,27,5,2024,12,2,1,9,,4,0,Concrete,1,2,1,25,3,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.14044,42.4045,"{
+  ""coordinates"": [
+    -8.314043935674350e+01,
+    4.240450251576570e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.140439357,
+    42.404502516
+  ],
+  ""type"": ""Point""
+}",-83.1404393569999,42.404502516
+3145,3195171,OUTER,7 MILE,2024-05-26,26,5,2024,13,1,1,9,,2,0,Asphalt,1,1,1,35,4,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.01433,42.43388,"{
+  ""coordinates"": [
+    -8.301432905061210e+01,
+    4.243388217866740e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.014329051,
+    42.433882179
+  ],
+  ""type"": ""Point""
+}",-83.0143290509999,42.4338821790001
+3371,3193440,8 MILE,HOOVER,2024-05-23,23,5,2024,13,5,1,3,,1,0,Asphalt,1,1,1,40,8,2,1,3,0,0,1,0,false,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.00727,42.44873,"{
+  ""coordinates"": [
+    -8.300727362583180e+01,
+    4.244872532588260e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.007273626,
+    42.448725326
+  ],
+  ""type"": ""Point""
+}",-83.007273626,42.448725326
+3530,3192629,TIREMAN,S M 39 SERVICE DRIVE,2024-05-21,21,5,2024,18,3,1,3,,4,0,Concrete,1,1,1,30,2,2,3,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21674,42.35061,"{
+  ""coordinates"": [
+    -8.321673357991600e+01,
+    4.235061228381540e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.21673358,
+    42.350612284
+  ],
+  ""type"": ""Point""
+}",-83.21673358,42.3506122840001
+3696,3269347,GREENFIELD,GRAND RIVER AVE,2024-08-27,27,8,2024,21,3,1,3,,2,0,Asphalt,2,2,4,35,5,2,2,2,0,1,0,0,false,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19836,42.39266,"{
+  ""coordinates"": [
+    -8.319836526477810e+01,
+    4.239265655829940e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.198365265,
+    42.392656558
+  ],
+  ""type"": ""Point""
+}",-83.1983652649999,42.3926565580001
+3816,3267940,GRANDRIVER,GREENFIELD,2024-08-25,25,8,2024,11,1,1,3,,1,0,Asphalt,1,1,1,30,3,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19828,42.39262,"{
+  ""coordinates"": [
+    -8.319828128253300e+01,
+    4.239262269086080e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.198281283,
+    42.392622691
+  ],
+  ""type"": ""Point""
+}",-83.198281283,42.392622691
+3944,3266744,WOODWARD,E M 102 SERVICE DRIVE,2024-08-23,23,8,2024,20,6,1,3,,1,0,Asphalt,1,1,4,35,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12494,42.44638,"{
+  ""coordinates"": [
+    -8.312493883058620e+01,
+    4.244637711238700e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.124938831,
+    42.446377112
+  ],
+  ""type"": ""Point""
+}",-83.124938831,42.4463771120001
+4015,3271195,LINWOOD,LESLIE,2024-08-22,22,8,2024,23,5,1,9,,4,0,Asphalt,1,1,4,25,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.1196,42.38941,"{
+  ""coordinates"": [
+    -8.311959932755380e+01,
+    4.238941041372480e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.119599328,
+    42.389410414
+  ],
+  ""type"": ""Point""
+}",-83.1195993279999,42.3894104140001
+4112,3264098,OUTER,LUMPKIN,2024-08-20,20,8,2024,16,3,1,9,,2,0,Asphalt,1,1,1,35,2,2,3,3,0,0,1,0,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,true,false,-83.08059,42.44024,"{
+  ""coordinates"": [
+    -8.308058877050409e+01,
+    4.244024060255460e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.080588771,
+    42.440240603
+  ],
+  ""type"": ""Point""
+}",-83.080588771,42.4402406030001
+4175,3263294,DAVISON,DEXTER,2024-08-19,19,8,2024,14,2,1,3,,1,0,Asphalt,1,2,1,35,7,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.13087,42.38974,"{
+  ""coordinates"": [
+    -8.313087251518870e+01,
+    4.238974320806730e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.130872515,
+    42.389743208
+  ],
+  ""type"": ""Point""
+}",-83.130872515,42.389743208
+4249,3262369,MARTIN LUTHER KING JR,LINCOLN,2024-08-18,18,8,2024,0,1,1,9,,4,0,Asphalt,1,1,5,25,3,2,2,2,0,1,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.07161,42.34209,"{
+  ""coordinates"": [
+    -8.307161242177980e+01,
+    4.234208815799920e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.071612422,
+    42.342088158
+  ],
+  ""type"": ""Point""
+}",-83.071612422,42.3420881580001
+4266,3261615,LUCE ST,DWYER ST,2024-08-17,17,8,2024,14,7,1,9,,4,0,Asphalt,1,1,1,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.04055,42.41553,"{
+  ""coordinates"": [
+    -8.304054941185510e+01,
+    4.241553061693120e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.040549412,
+    42.415530617
+  ],
+  ""type"": ""Point""
+}",-83.040549412,42.4155306170001
+4324,3267320,FENKELL,LIVERNOIS,2024-08-17,17,8,2024,19,7,1,9,,4,0,Asphalt,1,2,4,30,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.14035,42.40266,"{
+  ""coordinates"": [
+    -8.314035084639680e+01,
+    4.240266325058950e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.140350846,
+    42.402663251
+  ],
+  ""type"": ""Point""
+}",-83.140350846,42.402663251
+4348,3264490,BEACON,BRUSH,2024-08-16,16,8,2024,9,6,1,9,,,0,,1,1,1,25,1,2,2,5,0,0,0,0,true,false,false,false,true,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,true,false,-83.04619,42.3381,"{
+  ""coordinates"": [
+    -8.304618513630110e+01,
+    4.233809759227460e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.046185136,
+    42.338097592
+  ],
+  ""type"": ""Point""
+}",-83.046185136,42.3380975920001
+4382,3260991,WOODWARD,ALFRED ST,2024-08-16,16,8,2024,16,6,1,3,,1,0,Asphalt,1,1,1,25,5,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05477,42.34274,"{
+  ""coordinates"": [
+    -8.305477094435351e+01,
+    4.234274116287950e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.054770944,
+    42.342741163
+  ],
+  ""type"": ""Point""
+}",-83.054770944,42.342741163
+4606,3258157,SCHAEFER,EATON ST,2024-08-12,12,8,2024,20,2,1,9,,4,0,Asphalt,1,1,4,35,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.17891,42.39725,"{
+  ""coordinates"": [
+    -8.317890995060380e+01,
+    4.239724963770840e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.178909951,
+    42.397249638
+  ],
+  ""type"": ""Point""
+}",-83.178909951,42.3972496380001
+5060,3251450,BRUSH,WARREN,2024-08-05,5,8,2024,14,2,1,9,,4,0,Asphalt,1,1,1,25,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0598,42.3586,"{
+  ""coordinates"": [
+    -8.305979786009830e+01,
+    4.235859594673160e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.05979786,
+    42.358595947
+  ],
+  ""type"": ""Point""
+}",-83.0597978599999,42.358595947
+5166,3259635,ATWATER,SAINT AUBIN,2024-08-03,3,8,2024,13,7,1,9,,4,0,Concrete,1,1,1,25,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.02427,42.33401,"{
+  ""coordinates"": [
+    -8.302427192250020e+01,
+    4.233401537163430e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.024271923,
+    42.334015372
+  ],
+  ""type"": ""Point""
+}",-83.024271923,42.3340153720001
+5244,3249349,JAMES COUZENS,MCNICHOLS,2024-08-02,2,8,2024,16,6,1,9,,4,0,Asphalt,1,2,1,35,4,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.17188,42.41666,"{
+  ""coordinates"": [
+    -8.317187615145620e+01,
+    4.241666508742970e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.171876151,
+    42.416665087
+  ],
+  ""type"": ""Point""
+}",-83.1718761509999,42.4166650870001
+5340,3249321,EDGEWOOD,MAY ST,2024-08-01,1,8,2024,9,5,1,9,,,0,,1,1,1,25,2,2,1,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.01067,42.39793,"{
+  ""coordinates"": [
+    -8.301066672557570e+01,
+    4.239792871736520e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.010666726,
+    42.397928717
+  ],
+  ""type"": ""Point""
+}",-83.010666726,42.3979287170001
+5366,3249348,MCNICHOLS,TURNER,2024-08-01,1,8,2024,17,5,1,9,,4,0,Asphalt,1,1,1,30,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.14918,42.41711,"{
+  ""coordinates"": [
+    -8.314917555568429e+01,
+    4.241711324238480e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.149175556,
+    42.417113242
+  ],
+  ""type"": ""Point""
+}",-83.149175556,42.417113242
+5537,3246797,ELMHURST,LIVERNOIS,2024-07-29,29,7,2024,14,2,1,9,,4,0,Asphalt,1,1,1,25,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.13943,42.37614,"{
+  ""coordinates"": [
+    -8.313943652486270e+01,
+    4.237614275666560e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.139436525,
+    42.376142757
+  ],
+  ""type"": ""Point""
+}",-83.139436525,42.376142757
+5643,3245273,WADSWORTH AVE,ROSEMONT AVE,2024-07-27,27,7,2024,20,7,1,9,,,0,,1,1,1,25,2,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.21933,42.37439,"{
+  ""coordinates"": [
+    -8.321933043602731e+01,
+    4.237438592066780e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.219330436,
+    42.374385921
+  ],
+  ""type"": ""Point""
+}",-83.219330436,42.3743859210001
+5686,3245261,SPRINGLE,MACK,2024-07-27,27,7,2024,23,7,1,9,,,0,,1,1,3,25,5,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.96421,42.38406,"{
+  ""coordinates"": [
+    -8.296421175968619e+01,
+    4.238406116868010e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.96421176,
+    42.384061169
+  ],
+  ""type"": ""Point""
+}",-82.96421176,42.3840611690001
+5711,3244539,STRATHMOOR ST,CLARITA ST,2024-07-26,26,7,2024,10,6,1,9,,,0,,1,1,1,,2,2,2,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.18876,42.42896,"{
+  ""coordinates"": [
+    -8.318875509944060e+01,
+    4.242896230468040e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.188755099,
+    42.428962305
+  ],
+  ""type"": ""Point""
+}",-83.1887550989999,42.428962305
+5844,3246757,LARNED,SHELBY ST,2024-07-25,25,7,2024,15,5,1,9,,4,0,Asphalt,1,1,1,30,6,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.04748,42.32846,"{
+  ""coordinates"": [
+    -8.304747601453570e+01,
+    4.232846396338270e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.047476015,
+    42.328463963
+  ],
+  ""type"": ""Point""
+}",-83.047476015,42.328463963
+5988,3243973,FOREST,TRUMBULL,2024-07-22,22,7,2024,17,2,1,9,,4,0,Asphalt,1,2,1,30,2,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.07748,42.34993,"{
+  ""coordinates"": [
+    -8.307748342841251e+01,
+    4.234992996131860e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.077483428,
+    42.349929961
+  ],
+  ""type"": ""Point""
+}",-83.0774834279999,42.349929961
+6061,3241447,FENKELL,LAUDER,2024-07-21,21,7,2024,22,1,97,9,,2,0,Asphalt,1,1,4,35,4,3,3,2,0,2,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19126,42.40175,"{
+  ""coordinates"": [
+    -8.319126012411139e+01,
+    4.240174695878460e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.191260124,
+    42.401746959
+  ],
+  ""type"": ""Point""
+}",-83.1912601239999,42.401746959
+6242,3270220,GLENDALE,LAWTON,2024-07-18,18,7,2024,19,5,1,9,,,0,,1,1,1,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12302,42.3891,"{
+  ""coordinates"": [
+    -8.312301446738030e+01,
+    4.238909799037710e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.123014467,
+    42.38909799
+  ],
+  ""type"": ""Point""
+}",-83.123014467,42.38909799
+6293,3239846,ADAMS,ADAMS,2024-07-18,18,7,2024,13,5,1,3,,4,0,Asphalt,1,1,1,25,3,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05089,42.33698,"{
+  ""coordinates"": [
+    -8.305089015069680e+01,
+    4.233698073544350e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.050890151,
+    42.336980735
+  ],
+  ""type"": ""Point""
+}",-83.050890151,42.3369807350001
+6297,3239888,7 MILE RD,GOULBURN ST,2024-07-18,18,7,2024,19,5,1,9,,4,0,Asphalt,1,1,1,35,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.99364,42.43473,"{
+  ""coordinates"": [
+    -8.299363422836210e+01,
+    4.243473047836350e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.993634228,
+    42.434730478
+  ],
+  ""type"": ""Point""
+}",-82.993634228,42.4347304780001
+6300,3271169,WOODWARD,S I 75 SERVICE DRIVE,2024-07-18,18,7,2024,13,5,1,3,,1,0,Asphalt,1,1,1,25,3,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05303,42.34015,"{
+  ""coordinates"": [
+    -8.305303007925490e+01,
+    4.234015091107490e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.053030079,
+    42.340150911
+  ],
+  ""type"": ""Point""
+}",-83.0530300789999,42.3401509110001
+6478,3237359,CHENE,GRATIOT,2024-07-16,16,7,2024,17,3,1,3,,4,0,Asphalt,1,1,1,25,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.03204,42.35249,"{
+  ""coordinates"": [
+    -8.303204637835580e+01,
+    4.235249507611840e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.032046378,
+    42.352495076
+  ],
+  ""type"": ""Point""
+}",-83.032046378,42.352495076
+6484,3238162,WINTHROP,PICKFORD,2024-07-16,16,7,2024,15,3,1,9,,,0,,1,1,1,25,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false,false,false,false,false,true,false,-83.20113,42.42561,"{
+  ""coordinates"": [
+    -8.320112285648101e+01,
+    4.242561132344870e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.201122856,
+    42.425611323
+  ],
+  ""type"": ""Point""
+}",-83.201122856,42.4256113230001
+6811,3120576,BELDEN ST,MIDLAND ST,2024-02-13,13,2,2024,9,3,1,9,,,0,,1,1,1,25,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13547,42.40641,"{
+  ""coordinates"": [
+    -8.313546509270220e+01,
+    4.240640535516150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.135465093,
+    42.406405355
+  ],
+  ""type"": ""Point""
+}",-83.1354650929999,42.4064053550001
+7277,3113696,FARNSWORTH ST,JOHN R ST,2024-02-04,4,2,2024,16,1,1,9,,,0,,1,1,1,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,true,false,-83.06313,42.35921,"{
+  ""coordinates"": [
+    -8.306312974175150e+01,
+    4.235920972022990e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.063129742,
+    42.35920972
+  ],
+  ""type"": ""Point""
+}",-83.0631297419999,42.3592097200001
+7395,3113732,BINDER ST,7 MILE RD,2024-02-02,2,2,2024,23,6,1,9,,,0,,1,98,4,35,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.06413,42.43314,"{
+  ""coordinates"": [
+    -8.306413117046441e+01,
+    4.243313464808440e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.06413117,
+    42.433134648
+  ],
+  ""type"": ""Point""
+}",-83.0641311699999,42.4331346480001
+7699,3106468,3RD,HOWARD,2024-01-27,27,1,2024,16,7,1,9,,4,0,Asphalt,1,2,1,25,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,true,false,false,false,true,false,-83.05617,42.32965,"{
+  ""coordinates"": [
+    -8.305616812819190e+01,
+    4.232965072290530e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.056168128,
+    42.329650723
+  ],
+  ""type"": ""Point""
+}",-83.056168128,42.329650723
+8416,3100166,MILWAUKEE,GRAND,2024-01-17,17,1,2024,20,4,1,9,,4,0,Asphalt,4,1,5,35,2,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05267,42.37645,"{
+  ""coordinates"": [
+    -8.305267427757209e+01,
+    4.237644844088990e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.052674278,
+    42.376448441
+  ],
+  ""type"": ""Point""
+}",-83.052674278,42.376448441
+9470,3399618,ST ANTOINE,W WARREN,2024-12-31,31,12,2024,18,3,1,9,,4,0,Asphalt,2,4,5,35,4,2,3,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0573,42.35981,"{
+  ""coordinates"": [
+    -8.305729993383660e+01,
+    4.235981527444400e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.057299934,
+    42.359815274
+  ],
+  ""type"": ""Point""
+}",-83.057299934,42.359815274
+9750,3454870,WARREN,OPAL,2024-12-26,26,12,2024,17,5,1,9,,4,0,Asphalt,1,1,4,30,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.91422,42.41182,"{
+  ""coordinates"": [
+    -8.291421820321540e+01,
+    4.241181394675110e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.914218203,
+    42.411813947
+  ],
+  ""type"": ""Point""
+}",-82.914218203,42.411813947
+10332,3378110,OUTER,SCHOOLCRAFT,2024-12-16,16,12,2024,19,2,1,1,,2,0,Asphalt,2,4,4,35,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,true,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.25642,42.38504,"{
+  ""coordinates"": [
+    -8.325642391924130e+01,
+    4.238504373007230e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.256423919,
+    42.38504373
+  ],
+  ""type"": ""Point""
+}",-83.256423919,42.3850437300001
+10417,3377195,MEYERS,MCNICHOLS,2024-12-14,14,12,2024,14,7,1,9,,4,0,Asphalt,1,1,1,30,4,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.17013,42.41666,"{
+  ""coordinates"": [
+    -8.317012945562919e+01,
+    4.241665644900150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.170129456,
+    42.416656449
+  ],
+  ""type"": ""Point""
+}",-83.170129456,42.4166564490001
+10666,3372044,WOODWARD,BRENTWOOD,2024-12-11,11,12,2024,18,4,1,3,,1,0,Asphalt,1,2,4,40,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.11445,42.4313,"{
+  ""coordinates"": [
+    -8.311445185374640e+01,
+    4.243130226702560e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.114451854,
+    42.431302267
+  ],
+  ""type"": ""Point""
+}",-83.114451854,42.431302267
+10755,3373273,MICHIGAN,MARTIN,2024-12-09,9,12,2024,17,2,1,2,,1,0,Asphalt,1,1,4,35,5,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12711,42.33115,"{
+  ""coordinates"": [
+    -8.312710364281530e+01,
+    4.233114847105790e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.127103643,
+    42.331148471
+  ],
+  ""type"": ""Point""
+}",-83.1271036429999,42.3311484710001
+11209,3361692,VAUGHAN,JOY,2024-12-02,2,12,2024,20,2,1,9,,,0,,1,2,5,25,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.23711,42.35749,"{
+  ""coordinates"": [
+    -8.323710748261510e+01,
+    4.235748742453820e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.237107483,
+    42.357487425
+  ],
+  ""type"": ""Point""
+}",-83.237107483,42.357487425
+11472,3358227,LONGACRE,WARREN,2024-11-29,29,11,2024,13,6,1,9,,,0,,2,2,1,25,2,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21347,42.34313,"{
+  ""coordinates"": [
+    -8.321346682971669e+01,
+    4.234313269581150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.21346683,
+    42.343132696
+  ],
+  ""type"": ""Point""
+}",-83.21346683,42.3431326960001
+11741,3355090,LIVERNOIS,LIVERNOIS,2024-11-26,26,11,2024,7,3,1,9,,4,0,Asphalt,2,4,1,,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13915,42.38022,"{
+  ""coordinates"": [
+    -8.313914901128200e+01,
+    4.238021788909150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.139149011,
+    42.380217889
+  ],
+  ""type"": ""Point""
+}",-83.139149011,42.3802178890001
+12022,3350497,SCHOOLCRAFT,METTETAL,2024-11-21,21,11,2024,13,5,1,9,,2,0,Asphalt,1,1,1,30,-2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.20677,42.38688,"{
+  ""coordinates"": [
+    -8.320677444890300e+01,
+    4.238688327181300e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.206774449,
+    42.386883272
+  ],
+  ""type"": ""Point""
+}",-83.206774449,42.386883272
+12687,3149840,WARREN,DREXEL,2024-03-23,23,3,2024,16,7,1,9,,4,0,Asphalt,1,1,1,35,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.96508,42.3932,"{
+  ""coordinates"": [
+    -8.296508312740930e+01,
+    4.239320504173980e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.965083127,
+    42.393205042
+  ],
+  ""type"": ""Point""
+}",-82.965083127,42.393205042
+13078,3145517,CENTRAL,VERNOR,2024-03-18,18,3,2024,14,2,1,9,,4,0,Asphalt,1,2,1,25,2,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12433,42.31265,"{
+  ""coordinates"": [
+    -8.312432599708460e+01,
+    4.231265366748410e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.124325997,
+    42.312653667
+  ],
+  ""type"": ""Point""
+}",-83.124325997,42.3126536670001
+13425,3142148,SOUTHFIELD SERVICE DRIVE,MCNICHOLS,2024-03-13,13,3,2024,21,4,1,9,,4,0,Asphalt,1,1,4,30,2,2,2,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21922,42.41554,"{
+  ""coordinates"": [
+    -8.321922595320210e+01,
+    4.241553831462740e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.219225953,
+    42.415538315
+  ],
+  ""type"": ""Point""
+}",-83.219225953,42.415538315
+13528,3142163,OUTER,MOUND,2024-03-11,11,3,2024,18,2,1,9,,2,0,Asphalt,1,1,1,35,3,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.04408,42.44072,"{
+  ""coordinates"": [
+    -8.304407890064240e+01,
+    4.244071543345050e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.044078901,
+    42.440715433
+  ],
+  ""type"": ""Point""
+}",-83.044078901,42.440715433
+14006,3135992,JOHN R,REMINGTON,2024-03-04,4,3,2024,7,2,1,9,,4,0,Asphalt,1,1,4,,2,2,2,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.10269,42.44212,"{
+  ""coordinates"": [
+    -8.310268848852900e+01,
+    4.244212196817980e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.102688489,
+    42.442121968
+  ],
+  ""type"": ""Point""
+}",-83.1026884889999,42.442121968
+14284,3133140,THE STRAND,INSERLRUHE,2024-02-27,27,2,2024,17,3,1,3,,1,1,Asphalt,1,1,1,25,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.98308,42.33574,"{
+  ""coordinates"": [
+    -8.298307482902420e+01,
+    4.233573726531040e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.983074829,
+    42.335737265
+  ],
+  ""type"": ""Point""
+}",-82.983074829,42.335737265
+14300,3133963,WARREN,ASHTON AVE,2024-02-27,27,2,2024,13,3,1,9,,2,0,Asphalt,1,1,1,35,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.21735,42.34336,"{
+  ""coordinates"": [
+    -8.321734379774260e+01,
+    4.234335838441970e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.217343798,
+    42.343358384
+  ],
+  ""type"": ""Point""
+}",-83.2173437979999,42.3433583840001
+14706,3126586,CHENE,CHENE,2024-02-19,19,2,2024,19,2,1,9,,4,0,Asphalt,1,1,5,35,6,2,3,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.02264,42.33825,"{
+  ""coordinates"": [
+    -8.302264662306450e+01,
+    4.233824528283500e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.022646623,
+    42.338245283
+  ],
+  ""type"": ""Point""
+}",-83.022646623,42.338245283
+15014,3378145,PALMER,WOODWARD,2024-11-18,18,11,2024,12,2,1,3,,4,0,Asphalt,1,1,1,25,2,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0678,42.36213,"{
+  ""coordinates"": [
+    -8.306780129060300e+01,
+    4.236212397359530e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.067801291,
+    42.362123974
+  ],
+  ""type"": ""Point""
+}",-83.067801291,42.362123974
+15310,3343561,OUTER,FORT,2024-11-13,13,11,2024,8,4,1,3,,2,0,Asphalt,1,1,1,35,3,2,2,3,0,0,1,0,false,false,true,true,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.16709,42.2625,"{
+  ""coordinates"": [
+    -8.316708984409550e+01,
+    4.226249938950380e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.167089844,
+    42.26249939
+  ],
+  ""type"": ""Point""
+}",-83.167089844,42.2624993900001
+15468,3374234,LESLIE,LIVERNOIS,2024-11-11,11,11,2024,3,2,1,9,,,0,,1,1,4,25,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13888,42.38209,"{
+  ""coordinates"": [
+    -8.313888121520520e+01,
+    4.238208990957420e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.138881215,
+    42.38208991
+  ],
+  ""type"": ""Point""
+}",-83.138881215,42.38208991
+15708,3336066,SCHOENHERR ST,LAPPIN ST,2024-11-07,7,11,2024,13,5,1,9,,4,0,Asphalt,1,1,1,30,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.98521,42.43697,"{
+  ""coordinates"": [
+    -8.298520734762189e+01,
+    4.243697007722480e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.985207348,
+    42.436970077
+  ],
+  ""type"": ""Point""
+}",-82.985207348,42.4369700770001
+15740,3333439,GRAND RIVER,MCNICHOLS,2024-11-06,6,11,2024,10,4,1,3,,1,0,Asphalt,1,1,1,35,4,2,2,3,0,0,1,0,false,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.25253,42.41446,"{
+  ""coordinates"": [
+    -8.325253169255571e+01,
+    4.241445637349130e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.252531693,
+    42.414456373
+  ],
+  ""type"": ""Point""
+}",-83.252531693,42.4144563730001
+15827,3332456,MONTE VISTA,CHIPPEWA ST,2024-11-05,5,11,2024,22,3,1,9,,,0,,2,4,5,25,2,2,1,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.1689,42.44076,"{
+  ""coordinates"": [
+    -8.316889861316190e+01,
+    4.244075962627320e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.168898613,
+    42.440759626
+  ],
+  ""type"": ""Point""
+}",-83.168898613,42.440759626
+16191,3326352,KELLY,MOROSS,2024-10-30,30,10,2024,17,4,1,9,,2,0,Asphalt,1,1,1,30,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.95296,42.43466,"{
+  ""coordinates"": [
+    -8.295295967067641e+01,
+    4.243465652691080e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.952959671,
+    42.434656527
+  ],
+  ""type"": ""Point""
+}",-82.952959671,42.4346565270001
+16661,3321699,TIREMAN,SCOTTEN,2024-10-22,22,10,2024,19,3,1,9,,4,0,Asphalt,1,1,4,35,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false,false,false,false,false,true,false,-83.11253,42.35566,"{
+  ""coordinates"": [
+    -8.311253610655430e+01,
+    4.235566255350420e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.112536107,
+    42.355662554
+  ],
+  ""type"": ""Point""
+}",-83.112536107,42.355662554
+16675,3331409,MICHIGAN AVE,VERNOR,2024-10-22,22,10,2024,15,3,1,2,,1,0,Asphalt,1,1,1,35,4,2,3,2,0,1,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.07648,42.33135,"{
+  ""coordinates"": [
+    -8.307647433864230e+01,
+    4.233134685871700e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.076474339,
+    42.331346859
+  ],
+  ""type"": ""Point""
+}",-83.076474339,42.3313468590001
+16832,3314416,WOODWARD,N I 75,2024-10-19,19,10,2024,1,7,1,3,,1,0,Concrete,1,1,1,25,2,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0528,42.33983,"{
+  ""coordinates"": [
+    -8.305280397814960e+01,
+    4.233982666482580e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.052803978,
+    42.339826665
+  ],
+  ""type"": ""Point""
+}",-83.052803978,42.339826665
+16871,3314428,FEILDING ST,W WARREN AVE,2024-10-19,19,10,2024,12,7,1,9,,,0,,1,1,1,25,2,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.24019,42.34306,"{
+  ""coordinates"": [
+    -8.324018694514130e+01,
+    4.234305814813860e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.240186945,
+    42.343058148
+  ],
+  ""type"": ""Point""
+}",-83.2401869449999,42.3430581480001
+16874,3326345,BEAUFAIT,LAFAYETTE,2024-10-19,19,10,2024,16,7,1,9,,,0,,1,1,1,30,2,2,3,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0098,42.34823,"{
+  ""coordinates"": [
+    -8.300979319386200e+01,
+    4.234823351416150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.009793194,
+    42.348233514
+  ],
+  ""type"": ""Point""
+}",-83.0097931939999,42.3482335140001
+16952,3314439,OUTER,GREENFIELD,2024-10-18,18,10,2024,18,6,1,9,,2,0,Asphalt,1,1,1,35,2,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19948,42.41967,"{
+  ""coordinates"": [
+    -8.319947609639190e+01,
+    4.241967020081610e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.199476096,
+    42.419670201
+  ],
+  ""type"": ""Point""
+}",-83.199476096,42.419670201
+16974,3321686,BURT RD,GRAND RIVER AVE.,2024-10-17,17,10,2024,19,5,1,3,,4,0,Asphalt,1,2,4,35,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.24763,42.41221,"{
+  ""coordinates"": [
+    -8.324762514886750e+01,
+    4.241221316214420e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.247625149,
+    42.412213162
+  ],
+  ""type"": ""Point""
+}",-83.247625149,42.4122131620001
+17091,3311662,LIVERNOIS,8 MILE,2024-10-15,15,10,2024,8,3,1,9,,4,0,Asphalt,1,1,1,30,4,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.14188,42.44557,"{
+  ""coordinates"": [
+    -8.314188552569790e+01,
+    4.244556725028050e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.141885526,
+    42.44556725
+  ],
+  ""type"": ""Point""
+}",-83.141885526,42.4455672500001
+17281,3306924,SOUTHFIELD SERVICE DR.,FENKELL ST.,2024-10-12,12,10,2024,21,7,1,3,,1,0,Asphalt,2,4,4,35,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21838,42.40118,"{
+  ""coordinates"": [
+    -8.321838515107680e+01,
+    4.240117504922960e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.218385151,
+    42.401175049
+  ],
+  ""type"": ""Point""
+}",-83.2183851509999,42.4011750490001
+17486,3318657,CASS,FERRY,2024-10-10,10,10,2024,17,5,1,9,,4,0,Asphalt,1,1,1,25,2,2,2,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.06953,42.36101,"{
+  ""coordinates"": [
+    -8.306952369275470e+01,
+    4.236100794330250e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.069523693,
+    42.361007943
+  ],
+  ""type"": ""Point""
+}",-83.069523693,42.3610079430001
+18168,3186353,MADISON,WITHERELL,2024-05-13,13,5,2024,17,2,1,9,,4,0,Asphalt,1,1,1,25,3,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.04923,42.33718,"{
+  ""coordinates"": [
+    -8.304923556650280e+01,
+    4.233717633556550e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.049235567,
+    42.337176336
+  ],
+  ""type"": ""Point""
+}",-83.049235567,42.337176336
+18559,3180771,DIX,PLEASANT,2024-05-07,7,5,2024,14,3,1,9,,2,0,Asphalt,1,2,1,30,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15835,42.28827,"{
+  ""coordinates"": [
+    -8.315834519997490e+01,
+    4.228826746581890e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.1583452,
+    42.288267466
+  ],
+  ""type"": ""Point""
+}",-83.1583452,42.288267466
+18731,3199816,NEVADA,HULL,2024-05-04,4,5,2024,19,7,1,9,,4,0,Asphalt,1,1,1,30,2,2,3,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,true,false,-83.08892,42.42503,"{
+  ""coordinates"": [
+    -8.308892172083490e+01,
+    4.242503205276010e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.088921721,
+    42.425032053
+  ],
+  ""type"": ""Point""
+}",-83.088921721,42.4250320530001
+18775,3183413,PIERSON,MCNICHOLS,2024-05-03,3,5,2024,12,6,1,9,,,0,,2,2,1,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,true,false,-83.24715,42.41495,"{
+  ""coordinates"": [
+    -8.324715268639071e+01,
+    4.241495108607630e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.247152686,
+    42.414951086
+  ],
+  ""type"": ""Point""
+}",-83.2471526859999,42.414951086
+18810,3178587,7 MILE,RONDO,2024-05-03,3,5,2024,19,6,1,9,,4,0,Asphalt,1,1,1,35,2,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.98028,42.43502,"{
+  ""coordinates"": [
+    -8.298028136034310e+01,
+    4.243501860510900e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.98028136,
+    42.435018605
+  ],
+  ""type"": ""Point""
+}",-82.9802813599999,42.435018605
+18840,3192668,GEORGIA,SHERWOOD ST,2024-05-03,3,5,2024,5,6,1,9,,4,0,Concrete,2,1,4,25,2,2,2,1,1,0,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.02982,42.39358,"{
+  ""coordinates"": [
+    -8.302981221381430e+01,
+    4.239357868959340e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.029812214,
+    42.39357869
+  ],
+  ""type"": ""Point""
+}",-83.0298122139999,42.39357869
+19132,3175021,GARTNER,SPRINGWELLS,2024-04-29,29,4,2024,10,2,1,9,,,0,,1,1,1,25,2,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12482,42.30898,"{
+  ""coordinates"": [
+    -8.312482650871350e+01,
+    4.230897348726120e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.124826509,
+    42.308973487
+  ],
+  ""type"": ""Point""
+}",-83.1248265089999,42.3089734870001
+19229,3178576,GREENFIELD,WARREN,2024-04-27,27,4,2024,12,7,1,9,,2,0,Asphalt,1,2,1,35,8,2,3,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.19629,42.34361,"{
+  ""coordinates"": [
+    -8.319628738316550e+01,
+    4.234361364568290e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.196287383,
+    42.343613646
+  ],
+  ""type"": ""Point""
+}",-83.196287383,42.3436136460001
+19411,3172158,HARPER AVE,CONNER ST,2024-04-25,25,4,2024,17,5,1,9,,4,0,Asphalt,1,1,1,35,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.98952,42.39731,"{
+  ""coordinates"": [
+    -8.298951661515260e+01,
+    4.239731039116110e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.989516615,
+    42.397310391
+  ],
+  ""type"": ""Point""
+}",-82.989516615,42.3973103910001
+19556,3174137,MARLBOROUGH,WAVENEY,2024-04-22,22,4,2024,20,2,1,9,,,0,,1,1,4,25,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.95451,42.39068,"{
+  ""coordinates"": [
+    -8.295450287076270e+01,
+    4.239068284619540e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.954502871,
+    42.390682846
+  ],
+  ""type"": ""Point""
+}",-82.954502871,42.3906828460001
+19744,3168145,ROSSINI,REX,2024-04-19,19,4,2024,16,6,1,9,,,0,,1,1,1,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,true,false,-82.95848,42.44381,"{
+  ""coordinates"": [
+    -8.295848276883420e+01,
+    4.244380613517140e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.958482769,
+    42.443806135
+  ],
+  ""type"": ""Point""
+}",-82.9584827689999,42.443806135
+19857,3166777,WARREN,CANYON,2024-04-16,16,4,2024,17,3,1,9,,4,0,Asphalt,1,1,1,30,3,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-82.91524,42.41144,"{
+  ""coordinates"": [
+    -8.291523658300900e+01,
+    4.241143984539880e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.915236583,
+    42.411439845
+  ],
+  ""type"": ""Point""
+}",-82.915236583,42.4114398450001
+19947,3165047,WYOMING ST,JOY RD,2024-04-15,15,4,2024,20,2,1,9,,4,0,Asphalt,1,1,4,30,5,2,1,2,0,1,0,0,false,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15797,42.35904,"{
+  ""coordinates"": [
+    -8.315796816417780e+01,
+    4.235903863329670e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.157968164,
+    42.359038633
+  ],
+  ""type"": ""Point""
+}",-83.157968164,42.3590386330001
+19960,3165975,HARPER AVE,CONNER ST,2024-04-15,15,4,2024,15,2,1,9,,4,0,Asphalt,1,1,1,30,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,true,false,-82.98943,42.39734,"{
+  ""coordinates"": [
+    -8.298942564756140e+01,
+    4.239733732709500e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.989425648,
+    42.397337327
+  ],
+  ""type"": ""Point""
+}",-82.989425648,42.3973373270001
+20038,3164386,DEXTER,DAVISON,2024-04-14,14,4,2024,14,1,1,3,,4,0,Asphalt,1,1,1,30,7,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13087,42.38974,"{
+  ""coordinates"": [
+    -8.313087251518870e+01,
+    4.238974320806730e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.130872515,
+    42.389743208
+  ],
+  ""type"": ""Point""
+}",-83.130872515,42.389743208
+20330,3162594,7 MILE,JAMES COUZENS,2024-04-09,9,4,2024,11,3,1,3,,2,0,Asphalt,1,1,1,35,5,2,1,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,true,false,-83.1866,42.43085,"{
+  ""coordinates"": [
+    -8.318660175411800e+01,
+    4.243084796465160e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.186601754,
+    42.430847965
+  ],
+  ""type"": ""Point""
+}",-83.186601754,42.4308479650001
+20387,3161781,TRUMBULL,WARREN,2024-04-08,8,4,2024,9,2,1,9,,4,0,Asphalt,1,1,1,30,4,2,2,2,0,1,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.07873,42.35209,"{
+  ""coordinates"": [
+    -8.307872831565069e+01,
+    4.235209410190330e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.078728316,
+    42.352094102
+  ],
+  ""type"": ""Point""
+}",-83.078728316,42.3520941020001
+20867,3305925,8 MILE RD,YACAMA ST,2024-10-08,8,10,2024,20,3,1,3,,1,0,Concrete,1,1,1,25,1,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.09747,42.44656,"{
+  ""coordinates"": [
+    -8.309747010191360e+01,
+    4.244655705599190e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.097470102,
+    42.446557056
+  ],
+  ""type"": ""Point""
+}",-83.097470102,42.4465570560001
+20942,3302851,WOODWARD AVE,WARREN AVE,2024-10-07,7,10,2024,18,2,1,3,,1,0,Asphalt,1,1,3,30,7,2,2,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.06429,42.35678,"{
+  ""coordinates"": [
+    -8.306428658620530e+01,
+    4.235678494242270e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.064286586,
+    42.356784942
+  ],
+  ""type"": ""Point""
+}",-83.064286586,42.356784942
+20959,3301896,OUTER,WEXFORD,2024-10-07,7,10,2024,21,2,1,9,,2,0,Asphalt,1,1,4,35,2,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.06556,42.44051,"{
+  ""coordinates"": [
+    -8.306555850209740e+01,
+    4.244050849097180e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.065558502,
+    42.440508491
+  ],
+  ""type"": ""Point""
+}",-83.065558502,42.4405084910001
+20975,3302854,8 MILE RD,WOODWARD AVE,2024-10-07,7,10,2024,18,2,1,3,,1,0,Asphalt,1,1,4,40,4,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12485,42.44651,"{
+  ""coordinates"": [
+    -8.312485085937180e+01,
+    4.244650631830190e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.124850859,
+    42.446506318
+  ],
+  ""type"": ""Point""
+}",-83.1248508589999,42.446506318
+21118,3300305,VAN DYKE,8 MILE RD,2024-10-04,4,10,2024,11,6,1,3,,1,0,Asphalt,1,1,1,35,2,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.02475,42.44829,"{
+  ""coordinates"": [
+    -8.302475039152840e+01,
+    4.244828925085300e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.024750392,
+    42.448289251
+  ],
+  ""type"": ""Point""
+}",-83.024750392,42.4482892510001
+21288,3333466,HANCOCK,CASS,2024-10-01,1,10,2024,11,3,1,9,,,0,,1,2,1,25,4,2,2,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,true,false,-83.06606,42.35479,"{
+  ""coordinates"": [
+    -8.306606071521951e+01,
+    4.235479217787960e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.066060715,
+    42.354792178
+  ],
+  ""type"": ""Point""
+}",-83.0660607149999,42.354792178
+21502,3320174,E M 1 SERVICE DRIVE,E M 102 SERVICE DRIVE,2024-09-28,28,9,2024,14,7,1,3,,1,0,Asphalt,2,2,1,35,3,2,2,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12519,42.44635,"{
+  ""coordinates"": [
+    -8.312519313737370e+01,
+    4.244635354105000e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.125193137,
+    42.446353541
+  ],
+  ""type"": ""Point""
+}",-83.1251931369999,42.4463535410001
+21585,3294251,GRATIOT,FRENCH,2024-09-27,27,9,2024,10,6,1,3,,1,0,Asphalt,1,1,1,35,7,2,1,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.00046,42.40038,"{
+  ""coordinates"": [
+    -8.300046041519390e+01,
+    4.240038093771890e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.000460415,
+    42.400380938
+  ],
+  ""type"": ""Point""
+}",-83.000460415,42.4003809380001
+21603,3293474,HARPER,HAYES,2024-09-26,26,9,2024,19,5,1,9,,4,0,Asphalt,1,1,4,30,2,2,2,2,0,1,0,0,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.96433,42.40474,"{
+  ""coordinates"": [
+    -8.296433334722560e+01,
+    4.240473832970960e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.964333347,
+    42.40473833
+  ],
+  ""type"": ""Point""
+}",-82.964333347,42.40473833
+21813,3290528,CENTRAL,W I 94 SERVICE DRIVE,2024-09-23,23,9,2024,13,2,1,1,,4,0,Asphalt,1,1,1,25,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13871,42.33272,"{
+  ""coordinates"": [
+    -8.313870645690440e+01,
+    4.233271611384420e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.138706457,
+    42.332716114
+  ],
+  ""type"": ""Point""
+}",-83.138706457,42.332716114
+21867,3293455,CASS AVE,GRAND RIVER,2024-09-22,22,9,2024,16,1,1,3,,4,0,Asphalt,1,2,1,35,3,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.05446,42.33457,"{
+  ""coordinates"": [
+    -8.305445957731190e+01,
+    4.233456883382010e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.054459577,
+    42.334568834
+  ],
+  ""type"": ""Point""
+}",-83.054459577,42.334568834
+21868,3289708,SOUTHFIELD SERVICE DRIVE,OUTER,2024-09-22,22,9,2024,14,1,1,9,,4,0,Asphalt,1,2,1,35,4,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21865,42.41908,"{
+  ""coordinates"": [
+    -8.321865376348360e+01,
+    4.241907713648510e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.218653763,
+    42.419077136
+  ],
+  ""type"": ""Point""
+}",-83.218653763,42.4190771360001
+22036,3287379,GRAND RIVER,INDIANA,2024-09-19,19,9,2024,10,5,1,3,,1,0,Asphalt,1,1,1,30,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15665,42.37585,"{
+  ""coordinates"": [
+    -8.315664312509190e+01,
+    4.237585543591950e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.156643125,
+    42.375855436
+  ],
+  ""type"": ""Point""
+}",-83.156643125,42.3758554360001
+22184,3287400,CANFIELD,CONNER,2024-09-17,17,9,2024,16,3,1,9,,,0,,1,1,1,25,2,2,3,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.97073,42.38708,"{
+  ""coordinates"": [
+    -8.297072823345900e+01,
+    4.238708247655650e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.970728233,
+    42.387082477
+  ],
+  ""type"": ""Point""
+}",-82.970728233,42.387082477
+22275,3284854,CASS,FOREST,2024-09-16,16,9,2024,10,2,1,9,,4,0,Asphalt,1,1,1,30,4,2,2,5,0,0,0,0,true,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,true,false,-83.06536,42.35371,"{
+  ""coordinates"": [
+    -8.306535783702680e+01,
+    4.235370752687750e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.065357837,
+    42.353707527
+  ],
+  ""type"": ""Point""
+}",-83.065357837,42.353707527
+22316,3287413,LAFAYETTE,MOUNT ELLIOTT,2024-09-15,15,9,2024,19,1,1,9,,4,0,Asphalt,1,1,1,35,2,2,1,3,0,0,1,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.0123,42.34685,"{
+  ""coordinates"": [
+    -8.301229912583651e+01,
+    4.234684669518490e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.012299126,
+    42.346846695
+  ],
+  ""type"": ""Point""
+}",-83.012299126,42.3468466950001
+22461,3393228,FENKELL ST,ARCHDALE ST,2024-09-13,13,9,2024,0,6,1,9,,2,1,Asphalt,98,1,4,35,4,2,1,4,0,0,0,1,false,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.21603,42.40116,"{
+  ""coordinates"": [
+    -8.321602971868990e+01,
+    4.240115644401100e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.216029719,
+    42.401156444
+  ],
+  ""type"": ""Point""
+}",-83.2160297189999,42.401156444
+22480,3282343,ALTER RD,SOUTHAMPTON ST,2024-09-13,13,9,2024,16,6,1,9,,4,0,Asphalt,1,1,1,30,4,2,4,2,0,2,0,0,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-82.95698,42.40024,"{
+  ""coordinates"": [
+    -8.295697571755250e+01,
+    4.240023942105150e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.956975718,
+    42.400239421
+  ],
+  ""type"": ""Point""
+}",-82.956975718,42.400239421
+22661,3280714,7 MILE,ARCHDALE,2024-09-11,11,9,2024,7,4,1,9,,2,0,Asphalt,1,1,1,35,4,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,-83.217,42.43008,"{
+  ""coordinates"": [
+    -8.321700229393630e+01,
+    4.243008018826380e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.217002294,
+    42.430080188
+  ],
+  ""type"": ""Point""
+}",-83.2170022939999,42.430080188
+22734,3283750,LIVERNOIS,CORTLAND,2024-09-10,10,9,2024,22,3,1,9,,4,0,Asphalt,1,1,4,35,5,2,1,4,0,0,0,1,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.13911,42.37912,"{
+  ""coordinates"": [
+    -8.313911063781140e+01,
+    4.237911699420790e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.139110638,
+    42.379116994
+  ],
+  ""type"": ""Point""
+}",-83.139110638,42.3791169940001
+22791,3281687,PACIFIC,TURNER,2024-09-09,9,9,2024,20,2,1,1,,,0,,1,1,4,25,1,2,2,4,0,0,0,1,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.1166,42.35827,"{
+  ""coordinates"": [
+    -8.311659938142989e+01,
+    4.235827410623000e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.116599381,
+    42.358274106
+  ],
+  ""type"": ""Point""
+}",-83.116599381,42.3582741060001
+23215,3276965,7 MILE,CRUSADE,2024-09-03,3,9,2024,22,3,1,9,,2,0,Asphalt,1,1,4,25,2,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-82.96064,42.43555,"{
+  ""coordinates"": [
+    -8.296063903719060e+01,
+    4.243555294988030e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.960639037,
+    42.43555295
+  ],
+  ""type"": ""Point""
+}",-82.960639037,42.43555295
+23364,3272232,LINWOOD,GRAND,2024-08-31,31,8,2024,15,7,1,9,,4,0,Asphalt,1,1,1,35,7,2,1,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.12311,42.39462,"{
+  ""coordinates"": [
+    -8.312310642860990e+01,
+    4.239462075362170e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.123106429,
+    42.394620754
+  ],
+  ""type"": ""Point""
+}",-83.123106429,42.3946207540001
+23424,3271748,JEFFERSON AVE,RIVARD ST,2024-08-30,30,8,2024,21,6,1,9,,4,0,Asphalt,1,1,4,30,5,2,1,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.03417,42.33329,"{
+  ""coordinates"": [
+    -8.303417281187291e+01,
+    4.233328700780130e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.034172812,
+    42.333287008
+  ],
+  ""type"": ""Point""
+}",-83.034172812,42.3332870080001
+23431,3341000,MACKENZIE,CENTRAL ST,2024-08-30,30,8,2024,19,6,1,9,,,0,,1,2,3,25,2,2,2,2,0,1,0,0,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.14638,42.35692,"{
+  ""coordinates"": [
+    -8.314637379364960e+01,
+    4.235691786315920e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.146373794,
+    42.356917863
+  ],
+  ""type"": ""Point""
+}",-83.1463737939999,42.356917863
+23481,3271712,MICHIGAN,WASHINGTON,2024-08-30,30,8,2024,9,6,1,9,,4,0,Asphalt,1,2,1,25,4,2,2,5,0,0,0,0,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,true,false,-83.05134,42.33168,"{
+  ""coordinates"": [
+    -8.305134159359829e+01,
+    4.233167651042060e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.051341594,
+    42.33167651
+  ],
+  ""type"": ""Point""
+}",-83.051341594,42.3316765100001
+23522,3271766,OAKMAN,GRAND RIVER,2024-08-29,29,8,2024,15,5,1,3,,4,0,Asphalt,1,1,1,40,6,2,2,3,0,0,1,0,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,false,-83.15095,42.37356,"{
+  ""coordinates"": [
+    -8.315094969534660e+01,
+    4.237355939286530e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -83.150949695,
+    42.373559393
+  ],
+  ""type"": ""Point""
+}",-83.150949695,42.3735593930001
+23556,3270190,MACK AVE,DICKERSON ST,2024-08-29,29,8,2024,9,5,1,9,,4,0,Concrete,1,1,1,35,5,2,3,3,0,0,1,0,false,false,false,false,false,false,false,false,false,false,true,true,false,true,false,false,false,false,false,false,true,false,-82.96227,42.38454,"{
+  ""coordinates"": [
+    -8.296226927959751e+01,
+    4.238453860422400e+01
+  ],
+  ""type"": ""Point""
+}","{
+  ""coordinates"": [
+    -82.96226928,
+    42.384538604
+  ],
+  ""type"": ""Point""
+}",-82.96226928,42.3845386040001
